@@ -1,0 +1,1 @@
+MyRecipe is an Android application that allows users to save, view, and manage their favorite recipes. Users can add recipe details such as ingredients and steps, view them in a list, and retrieve saved recipes anytime.
